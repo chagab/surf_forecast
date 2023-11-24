@@ -1,0 +1,19 @@
+#Ignore the following files
+
+.ipynb_checkpoints
+
+.DS_Store
+
+pycache
+
+*.db
+
+*.pytest_cache
+
+#*.log
+
+#*.jpeg
+
+#ignore ALL files in ANY directory named
+
+#chest_xray_tmp/
